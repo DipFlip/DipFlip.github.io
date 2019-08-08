@@ -1,0 +1,16 @@
+{
+"companyName": "Straw Hat Games",
+"productName": "PizzaCatcher",
+"productVersion": "0.1",
+"dataUrl": "build_folder.data.unityweb",
+"wasmCodeUrl": "build_folder.wasm.code.unityweb",
+"wasmFrameworkUrl": "build_folder.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
