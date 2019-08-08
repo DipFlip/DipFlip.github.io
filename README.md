@@ -1,2 +1,0 @@
-# DipFlip.github.io
-website
