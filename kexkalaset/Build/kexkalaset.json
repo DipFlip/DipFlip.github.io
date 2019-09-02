@@ -1,0 +1,16 @@
+{
+"companyName": "Straw Hat Games",
+"productName": "KexKalaset",
+"productVersion": "1",
+"dataUrl": "kexkalaset.data.unityweb",
+"wasmCodeUrl": "kexkalaset.wasm.code.unityweb",
+"wasmFrameworkUrl": "kexkalaset.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
